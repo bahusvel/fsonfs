@@ -1,0 +1,6 @@
+[package]
+name = "fsonfs"
+version = "0.1.0"
+authors = ["denislavrov"]
+
+[dependencies]
